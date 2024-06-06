@@ -6,6 +6,7 @@ I mostly use Unity + Visual Studio (C#), but am able to handle C++ & Java.
 # Here are some footage of my projects:
 
 Dashing Dasher:
+
 ![](https://raw.githubusercontent.com/bakamura/bakamura/main/Dasher_GIF_0.gif)
 ![](https://raw.githubusercontent.com/bakamura/bakamura/main/Dasher_GIF_1.gif)
 
