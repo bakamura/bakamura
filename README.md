@@ -14,7 +14,7 @@ If you want to contact me, please do so through my LinkedIn profile
 ### Here are some footage of my projects:
 
 **Dashing Dasher:**
-Casual game of single input, download at [Link]([url](https://play.google.com/store/apps/details?id=com.zetazash.com.unity.dasher))
+Casual game of single input, download at this [Link](https://play.google.com/store/apps/details?id=com.zetazash.com.unity.dasher) to PlayStore
 
 ![](https://raw.githubusercontent.com/bakamura/bakamura/main/Dasher_GIF_0.gif)
 ![](https://raw.githubusercontent.com/bakamura/bakamura/main/Dasher_GIF_1.gif)
