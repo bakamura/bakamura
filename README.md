@@ -2,10 +2,19 @@
 I am Pedro Nakamura, Gameplay Programmer.
 
 I mostly use Unity + Visual Studio (C#), but am able to handle C++ & Java.
+Enroled in College at PUC-SP (Sao Paulo, Brazil) until Dec/2024.
 
-# Here are some footage of my projects:
+Currently a generalist, but I really enjoy more developing UI and Player/Controls behaviour.
+Learning more about multiplayer / networking. (as of Jun/2024)
 
-Dashing Dasher:
+Highly Interested in Game Design, this help me develop modular tools that can be changed easily by designers without needing more code
+
+If you want to contact me, please do so through my LinkedIn profile
+
+### Here are some footage of my projects:
+
+**Dashing Dasher:**
+Casual game of single input, download at [Link]([url](https://play.google.com/store/apps/details?id=com.zetazash.com.unity.dasher))
 
 ![](https://raw.githubusercontent.com/bakamura/bakamura/main/Dasher_GIF_0.gif)
 ![](https://raw.githubusercontent.com/bakamura/bakamura/main/Dasher_GIF_1.gif)
